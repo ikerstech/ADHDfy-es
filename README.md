@@ -1,3 +1,6 @@
+<div align="center">
+   <img src="wip.png" />
+</div>
 # ADHDfy for Spicetify
 
 the extension that turns your Spotify client into a beautifully chaotic visual playground.
@@ -48,3 +51,6 @@ Once installed, a new icon appears in the top bar. Click it and the ADHDfy menu 
 handcrafted with love by [АВТОРЕМОНТ](https://github.com/ABTOPEMOHT).
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K21WQ3DD)
+<div align="center">
+   <img src="wip.png" />
+</div>
